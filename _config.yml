@@ -35,9 +35,9 @@ timezone: Asia/shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Zhang guisheng
+  name      : MgL02
   url       :
-  avatar    : ./avatar/avatar # path or url of avatar image (square)
+  avatar    : ./avatar/avatar.jpg # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : 3031975593@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -84,14 +84,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true # false (default), true
 
 
 ## => Paginate
@@ -151,9 +151,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_id    : uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz # LeanCloud App id
+    app_key   : Mzf5m9skSwYVWVXhGiYMNyXs # LeanCloud App key
+    app_class : ThomasBlog # LeanCloud App class
 
 
 ## => Search
