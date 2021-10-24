@@ -1,3 +1,11 @@
+---
+layout: article
+title: "视频剪辑基础"
+tags: TeXt
+---
+
+
+
 # 视频剪辑基础知识
 
 ### 数字视频信号
