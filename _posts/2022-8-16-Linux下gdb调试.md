@@ -11,7 +11,7 @@ author: Guailper
 
 使用`gcc infile -o outfile -g`可以使得在进行gdb调试时查看源代码
 
-```
+```shell
 gdb 可执行文件名 //进入gdb调试
 quit //退出gdb
 
