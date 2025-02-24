@@ -1,5 +1,8 @@
 ---
-tags:Linux
+layout: article
+tags: Linux
+title: Linux下gdb调试
+author: Guailper
 ---
 
 
